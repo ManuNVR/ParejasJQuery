@@ -1,0 +1,99 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20-abriel-2017, 11:38:20
+    Author     : IES TRASSIERRA
+*/
+body {
+    background: #E6F8E0;
+}
+
+table {
+    margin: auto;
+
+}
+
+td {
+    border: 1px solid black;
+    height: 150px;
+    width: 150px;
+}
+
+#titulo {
+    margin: auto;
+    text-align: center;
+    color: #6E6E6E;
+    font-size: 7em;
+}
+
+
+
+input[type="button"] {
+    border-radius: 9px 10px 10px 10px;
+    -moz-border-radius: 9px 10px 10px 10px;
+    -webkit-border-radius: 9px 10px 10px 10px;
+    border: 0px solid #000000;
+    width: 200px;
+    height: 50px;
+    color: #e6631c;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+#capaBoton {
+    width: 300px;
+    margin: 0 auto;
+    padding: 2em 3em;
+}
+
+.contenedorInferior {
+
+    position: absolute;
+    bottom: 5px;
+    right: 10px;
+}
+
+img {
+    height: 150px;
+    width: 150px;
+}
+.soltarNivel{
+    height:150x;
+   
+    background-color: rgb(253, 224, 109);
+}
+.niveles{
+    background-color: rgb(244, 226, 155);
+}
+
+.imgCarta{
+    height:200px;
+    width: 150px
+}
+.puntuacion{
+    width:100px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}.capaJugar{
+    text-align: center;
+    padding: 20px;
+}
+button{
+   width: 150px; 
+}
+
+.titulo h2 {
+
+    color: #8C004B;
+    display: block;
+    font-family: BroadWay;
+    font-size: 55px;
+    padding: 15px;
+    text-align: center;
+    text-shadow: 1px 1px 1px #CCCCCC;
+    margin: auto;
+}
